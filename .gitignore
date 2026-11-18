@@ -11,3 +11,4 @@ __pycache__/
 .ipynb_checkpoints/
 DATA/raw/
 DATA/cache/
+judging_*.xlsx

@@ -52,9 +52,19 @@ CODE/
   pipeline.py       matching, skill advice, company profiles, the word-list extractor
   extraction/       the LLM skill extractor with the provenance check
   tests/            quick checks for the extraction code
+  graph.py          loads the Neo4j knowledge graph from the skills file
+  run_e1.py         E1, extraction against the hand labels
+  run_e2.py         E2, job matching (TF-IDF, Sentence-BERT, skill overlap, hybrid)
+  run_e3.py         E3, skill advice with one skill hidden
+  judge_copy.py     makes and merges the E2 judging sheet
+  make_slice.py     cuts the slice from the raw downloads
 DATA/
   README.md         sources, licences, cleaning steps, file formats
   slice/            2,000 postings, 1,422 companies, 238 resumes, the skill list, the extracted skills
+  ONTOLOGY.md       the knowledge graph schema
+  gold/             50 hand labeled documents (the E1 answer key) and the labeling guide
+  extracted/        the extractors' output on those 50 documents
+EVALUATIONS/        E1, E2 and E3 results; see EVALUATIONS/README.md
 .streamlit/         the look of the page
 ```
 
@@ -80,4 +90,4 @@ All three are public. We do not scrape LinkedIn, and the assistant never contact
 * Rishikumar Senthilvel: graph and recommendation
 * Basil Shibu Thomas: agents and interface
 
-AI tools (Claude) were used for code and drafting, with the instructor's permission.
+AI tools (Claude) were used for code and drafting.

@@ -1,0 +1,23 @@
+# Gold labeling assignments
+
+Each batch is about 6 resumes and 6 job postings (roughly 2 hours).
+Sheets are in `DATA/gold/sheets/<doc_id>.csv`. How to label: `LABELING_GUIDE.md`.
+Due: Nov 17, 6 pm.
+
+| Batch | A labeler | Resumes | Job postings |
+|---|---|---|---|
+| 1 | Bharat | 36856210, 39413067, 32985311, 55595908, 64017585, 18752129 | 3902846265, 3904366954, 3901946284, 3900955709, 3900095346, 3903472529 |
+| 2 | Mathew | 17681064, 11981094, 23527321, 28320387, 27058381, 25905275 | 3902369694, 3901695364, 3880108413, 3901938191, 3900967065, 3900093425 |
+| 3 | Rishi | 66832845, 16186411, 31243710, 28897981, 13405733, 37335325 | 3894298123, 3902838969, 3887479382, 3885871137, 3901174801, 3904718512 |
+| 4 | Basil | 25990239, 19124258, 38753827, 23438227, 64755882, 26456899, 22605864 | 3903874905, 3904928032, 3898177736, 3901977344, 3900081441, 3901939474, 3904363323 |
+
+## Second labels (for the agreement score)
+
+Label these too, without looking at the first labeler's answers. They are saved separately as "B".
+
+| B labeler | Documents (from another batch) |
+|---|---|
+| Mathew | 36856210, 3902846265, 3904366954 |
+| Rishi | 17681064, 3902369694, 3901695364 |
+| Basil | 66832845, 3894298123, 3902838969 |
+| Bharat | 25990239, 3903874905, 3904928032 |

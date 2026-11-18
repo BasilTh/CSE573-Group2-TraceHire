@@ -1,0 +1,95 @@
+doc_id,sent_id,section,sentence,suggestions,skills
+37335325,0,other,ENGINEERING MANAGER,,
+37335325,1,header,Career Overview,,
+37335325,2,career overview,"A practiced, professional Test Manager with over 20 years of success managing test and validation of next-generation software / hardware technologies across multiple concurrent projects and releases.",,test; validation
+37335325,3,career overview,"Delivered effectively to time and budget on a variety of complex, large-scale, multi-platform projects including: complex network framework, IoT (Internet of Things), telecommunication and hosted services, business process tools, automation frameworks.",,IoT; Internet of Things; telecommunication; automation frameworks
+37335325,4,career overview,"Managed, trained and mentored multi-disciplinary, geographically dispersed teams including, software development, test and validation, planning, QA, configuration management, agile scrum master and product owner.",,software development; test; validation; QA; configuration management; agile; scrum
+37335325,5,header,Qualifications,,
+37335325,6,qualifications,"Product, system and software testing across multiple OS platforms (Windows, Windows Store, Android, iOS, Arduino & Linux) over full product life cycle, including Agile, V-model and Waterfall development methods  Managing multiple on-going projects with geographically dispersed teams, establishing and using sub-contract resources with on and off-shore models  Developing clear test strategies, proven ability to translate functional, non-functional and use case requirements into test plan, scripts and automation with full traceability to requirements  Leading continuous improvement of development, testing and organization processes  Proficient MS Office, Visual Studio, Eclipse and C","Android; iOS; Linux; Agile, V-model and Waterfall development methods; Proficient MS Office; Proficient MS Office, Visual Studio; Proficient MS Office, Visual Studio, Eclipse; Proficient MS Office, Visual Studio, Eclipse and C",Product testing; system testing; software testing; Windows; Windows Store; Android; iOS; Arduino; Linux; Agile; V-model; Waterfall; test strategies; test plan; automation; continuous improvement; MS Office; Visual Studio; Eclipse; C
+37335325,7,qualifications,•Scrum master for multiple concurrent scrum teams.,Scrum master for multiple concurrent scrum teams,Scrum
+37335325,8,qualifications,"Facilitate and organize all scrum ceremonies including the daily stand-up, retrospectives, demos, release planning and backlog grooming meetings.",Facilitate and organize all scrum ceremonies,scrum; retrospectives; release planning; backlog grooming
+37335325,9,qualifications,"Support the scrum team member to mitigate impediments, resolve conflict.",Support the scrum team member,scrum
+37335325,10,qualifications,"Tool administration and usage including, Jira, Rally, Clear Quest, Quality Center, ProtexIP, Sub-version, GIT, RTC, Bugzilla, Quality Center, Jenkins, Gerrit and others  Experience in testing software as a service (SaaS) applications  Design performance and stress testing of peer-to-peer / device-to-device network application and cloud XMPP server",Jira; GIT; Bugzilla; Rally; Clear Quest; Quality Center; ProtexIP; Sub-version; RTC; Jenkins; Gerrit; software as a service (SaaS); peer-to-peer / device-to-device network application; cloud XMPP server,Jira; Rally; Clear Quest; Quality Center; ProtexIP; Sub-version; GIT; RTC; Bugzilla; Jenkins; Gerrit; software as a service; SaaS; performance testing; stress testing; XMPP
+37335325,11,header,Work Experience,,
+37335325,12,work experience,Company Name,,
+37335325,13,work experience,September 2011,,
+37335325,14,work experience,to,,
+37335325,15,work experience,Current,,
+37335325,16,work experience,Engineering Manager,,
+37335325,17,work experience,"City  ,",,
+37335325,18,work experience,State,,
+37335325,19,work experience,"Managing and overseeing highly technical, multidisciplinary team of 15+ testers and developers, which were responsible for developing device to device and IoT automation framework, developing 10 different SDKs test tools across 5 different OS platforms (Windows, Windows store, Android, iOS and Linux) and simultaneously testing and validating multiple independent software products for Intel WPRD Wireless Software Services (WSS).","Android; iOS; Linux; developing device to device and IoT automation framework; Windows, Windows store, Android, iOS and Linux",IoT; automation framework; test tools; Windows; Windows store; Android; iOS; Linux
+37335325,20,work experience,"Cultivate partnerships with globally cross companies and teams in managing on-time, successful product (including open source) releases.",including open source,
+37335325,21,work experience,"Establish and manage fully functional outsourced validation operation in Bangalore, India, leading to significant cost reduction and enabled follow-the-sun testing to reduce the product development cycle and freeing full time employees for higher-value work.",fully functional outsourced validation operation,validation
+37335325,22,work experience,"Collaborate with executive management, product owner, sales and marking to provide validation and test estimated for feature or product release Formulate and implement software testing strategies for multiple concurrent projects Designed and supervised the development of cross OS platforms peer-to-peer/device-to- device test automation framework Designed and supervised the development of 10 different SDK test tools using C/C++, C#, Java, and Objective C Defined OIC/IoTivity compliance and certification test cases for open source community Chair bug weekly bug scrub review and prioritization Instrumental in reducing traditional project integration phases from a two weeks to one day by implementing continues integration (CI) automated build and test systems that enabled 100% build acceptance test automation.","C++; C#; Java; Objective C; validation and test estimated for feature or product release; Formulate and implement software testing strategies; Designed and supervised the development of cross OS platforms peer-to-peer/device-to- device test automation framework; Designed and supervised the development of 10 different SDK test tools; using C/C++, C#, Java, and Objective C; Defined OIC/IoTivity compliance and certification test cases; Chair bug weekly bug scrub review and prioritization; implementing continues integration (CI) automated build and test systems",validation; software testing; test automation; test tools; C; C++; C#; Java; Objective C; OIC; IoTivity; test cases; bug scrub; continues integration; CI
+37335325,23,work experience,"Instrumental in setting up Gerrit web based code review, as results the code quality has significantly improved and reduced regression test cycle by 50% Tool administration Rally, Clear quest, Jira and others Volunteered to be the scrum master for multiple scrum teams in additional to fulfilling my job responsibilities Managed and put process in place to ensure the off shore development center become seamless extension of our development team.",Jira; Gerrit web based code review; code review; Rally; Clear quest,Gerrit; code review; regression test; Rally; Clear quest; Jira; scrum
+37335325,24,work experience,Delivered incremental automated feature level testing on multiple projects across different OS platforms for wired and wireless technologies.,incremental automated feature level testing; multiple projects across different OS platforms; wired and wireless technologies,automated feature level testing
+37335325,25,work experience,Company Name,,
+37335325,26,work experience,July 2009,,
+37335325,27,work experience,to,,
+37335325,28,work experience,September 2011,,
+37335325,29,work experience,Director of Quality Assurance,,
+37335325,30,work experience,"City  ,",,
+37335325,31,work experience,State,,
+37335325,32,work experience,"Responsible for testing Qwarq transport agnostic wireless connectivity framework, the goal was to create new user experience leveraging multiple wireless technologies to make device-to-device connection easy.",Qwarq transport agnostic wireless connectivity framework,testing
+37335325,33,work experience,"Developing clear test strategies, proven ability to translate functional, non-functional and use case requirements into test plan, scripts and automation with full traceability to requirements Establish the quality assurance department for the company Managed, hired and trained test engineers Planning all resources and schedule test activities within and cross companies Worked closely with development, and support to implement and promote quality policies and processes throughout the company Worked closely with multiple PC OEMs simultaneously to understand their quality criteria and ensure the product quality meet or exceed their quality requirements.",clear test strategies; test plan; full traceability to requirements; Establish the quality assurance department; test engineers,test strategies; test plan; automation; quality assurance
+37335325,34,work experience,Procure Hardware and software for test and development Instrumental in conducted usability tests.,usability tests; Hardware and software for test and development,usability tests
+37335325,35,work experience,Company Name,,
+37335325,36,work experience,November 2006,,
+37335325,37,work experience,to,,
+37335325,38,work experience,July 2009,,
+37335325,39,work experience,Director of Quality Assurance,,
+37335325,40,work experience,"City  ,",,
+37335325,41,work experience,State,,
+37335325,42,work experience,"Establish the quality assurance department for the company  Planed all resources and schedule test activities while working closely with clients  Worked closely with development, support, marketing and sales directors to implement and promote quality policies and systems throughout the company  Tested Ultra wide band (Wireless USB) PHY, MAC, drivers and applications for both windows and embedded platforms","quality assurance department; schedule test activities; implement and promote quality policies and systems; Ultra wide band (Wireless USB) PHY, MAC, drivers and applications",quality assurance; Ultra wide band; Wireless USB; PHY; MAC; windows; embedded platforms
+37335325,43,work experience,"Tested Bluetopia Bluetooth stack and profiles on different PC and embedded OS platforms  Testing WIFI (802.11a/b/g/N) application including standard, Intel and cisco security supplements",Bluetopia Bluetooth stack and profiles; different PC and embedded OS platforms,Bluetopia; Bluetooth; embedded OS; WIFI; 802.11a/b/g/N
+37335325,44,work experience,"Microsoft WHQL drivers certification for Stonestreet One Ultra wide band, and Bluetooth drivers","Microsoft WHQL drivers certification; Stonestreet One Ultra wide band, and Bluetooth drivers; Microsoft WHQL drivers certification for Stonestreet One Ultra wide band, and Bluetooth drivers",WHQL; Ultra wide band; Bluetooth
+37335325,45,work experience,Company Name,Company Name,
+37335325,46,work experience,May 2004,,
+37335325,47,work experience,to,,
+37335325,48,work experience,November 2006,,
+37335325,49,work experience,Quality Assurance Manager,,
+37335325,50,work experience,"City  ,",,
+37335325,51,work experience,State,,
+37335325,52,work experience,"Manage, mentored and train test engineers who were responsible for testing (SaaS) time and attendance Product",,SaaS
+37335325,53,work experience,"Developed and worked with development team to implement quality process and procedures for the company to improve code quality and stability, as results reduce internal and customer reported defects by over 50%",quality process; code quality; stability,quality process
+37335325,54,work experience,Manage defect tracking system,defect tracking system,defect tracking
+37335325,55,work experience,Manage test case development and execution following Ceridian CUSP process,Ceridian CUSP process; test case development,test case development; CUSP
+37335325,56,work experience,Perform defect postmortem on all field reported defects and implement the necessary change to prevent future incidents  Manage testing lab.,defect postmortem; implement the necessary change; Manage testing lab,defect postmortem
+37335325,57,work experience,Company Name,,
+37335325,58,work experience,August 2001,,
+37335325,59,work experience,to,,
+37335325,60,work experience,February 2003,,
+37335325,61,work experience,lead test Engineer,,
+37335325,62,work experience,"City  ,",,
+37335325,63,work experience,State,,
+37335325,64,work experience,"Create manual and automated test cases, setting up and maintaining test environment for the department, execute functional, regression, stress, and load testing.",Create manual and automated test cases; setting up and maintaining test environment,test cases; test environment; functional testing; regression testing; stress testing; load testing
+37335325,65,work experience,Company Name,,
+37335325,66,work experience,July 1995,,
+37335325,67,work experience,to,,
+37335325,68,work experience,December 1999,,
+37335325,69,work experience,Lead Test Engineer,,
+37335325,70,work experience,"City  ,",,
+37335325,71,work experience,State,,
+37335325,72,work experience,"Lead group of quality assurance engineers testing and validating ITU H26X standard based video codecs namely H263 Plus, H263, I263, H261, Indeo 5.x, Automatic Echo Cancellation (AEC) audio codec for Intel videophone.",H263 Plus; H263; I263; H261; Indeo 5.x; Automatic Echo Cancellation (AEC); ITU H26X standard,video codecs; H263 Plus; H263; I263; H261; Indeo; Automatic Echo Cancellation; AEC; audio codec
+37335325,73,work experience,Scheduling regular bug scrubs sessions with the development team.,bug scrubs sessions,bug scrubs
+37335325,74,work experience,"During the bug scrubs assigning owners to the new defects, priorities defects to be included in future phase of development.",priorities defects,bug scrubs
+37335325,75,work experience,Scheduling code inspection and design review to find the bug in early stage of software development cycle.,code inspection; design review,code inspection; design review
+37335325,76,work experience,Company Name,,
+37335325,77,work experience,Owner / President,,
+37335325,78,work experience,"City  ,",,
+37335325,79,work experience,State,,
+37335325,80,work experience,"Installed the requested software and tested the compatibility of the new multimedia software and hardware Test and debug multimedia products, such as sound cards, video recorders, video capture cards, CD-ROMs and others Developed functional tests for stress, volume and continuity testing of software and hardware Configured system with various peripheral (scanners, printers, video digitizers) Reproducing bugs the were found during the test and compile all results Write reports and results that were found during the tests.",new multimedia software and hardware; sound cards; video recorders; video capture cards; CD-ROMs; functional tests; continuity testing; Configured system,debug; functional tests; stress testing; volume testing; continuity testing
+37335325,81,header,Education and Training,,
+37335325,82,education and training,Webster University,,
+37335325,83,education and training,2004,,
+37335325,84,education and training,Master of Science  :,,
+37335325,85,education and training,Computer Resource Information Management,,
+37335325,86,education and training,"City  ,",,
+37335325,87,education and training,State,,
+37335325,88,education and training,Kabul University,,
+37335325,89,education and training,1992,,
+37335325,90,education and training,Bachelor of Science  :,,
+37335325,91,education and training,Computer Science,,
+37335325,92,header,Skills,,
+37335325,93,skills,"audio, automation, C, C++, CD-ROMs, Ceridian, cisco, Hardware, cost reduction, clients, drivers, executive management, Functional, inspection, Intel, Java, Linux, MAC, Managing, marketing and sales, C#, Windows, Windows XP, multimedia, Objective C, OS, policies, printers, processes, product development, quality, quality assurance, quest, sales, scanners, Scheduling, scrum, scripts, software development, software testing, sound cards, sun, test tools, USB, validation, video, Vista",C++; Java; Linux; C#; Objective C,automation; C; C++; Java; Linux; MAC; C#; Windows; Objective C; product development; quality assurance; scrum; software development; software testing; test tools; validation

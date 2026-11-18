@@ -5,3 +5,8 @@ langchain-openai
 python-dotenv
 pypdf
 requests
+neo4j
+certifi
+scikit-learn
+sentence-transformers
+tqdm

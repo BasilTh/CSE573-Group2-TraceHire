@@ -21,7 +21,10 @@ load_dotenv(ROOT / ".env")
 DATA = ROOT / "DATA"
 SLICE = DATA / "slice"
 CACHE = DATA / "cache"
+GOLD = DATA / "gold"
+EXTRACTED = DATA / "extracted"
 LIGHTCAST_SKILLS = DATA / "raw" / "lightcast" / "skills.json"
+EVAL = ROOT / "EVALUATIONS"
 
 LLM_BASE_URL = os.getenv("EXTRACTION_BASE_URL", "http://localhost:11434/v1")
 LLM_MODEL = os.getenv("EXTRACTION_MODEL", "llama3.1:8b")
