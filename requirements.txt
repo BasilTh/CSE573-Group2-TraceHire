@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas
+langgraph
+langchain-openai
+python-dotenv
+pypdf
+requests

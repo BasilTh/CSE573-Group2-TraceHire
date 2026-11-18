@@ -1,0 +1,20 @@
+# The look of the TraceHire page. Streamlit reads this when it is started from the repo root.
+# Palette: Coconut Butter #F2EFE1 (page), Tamarind #341515 (text), Iron Ore #AF5B46 (buttons, links),
+# Pine Hollow #204242 (headings, bars), Cheddar Chunk #F9C982 (highlights), Grey Wool #A9BBBC (lines).
+# The rest of the palette, for our own markup, is LOOKS in CODE/app.py.
+[theme]
+base = "light"
+backgroundColor = "#F2EFE1"
+secondaryBackgroundColor = "#DDE0D4"
+textColor = "#341515"
+primaryColor = "#AF5B46"
+linkColor = "#AF5B46"
+borderColor = "#A9BBBC"
+baseRadius = "6px"
+baseFontSize = 18
+showWidgetBorder = true
+font = "Instrument Sans:https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400..700&display=swap"
+headingFont = "Instrument Sans:https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400..700&display=swap"
+
+[client]
+toolbarMode = "minimal"
