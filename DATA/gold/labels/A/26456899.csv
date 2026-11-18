@@ -1,0 +1,96 @@
+doc_id,sent_id,section,sentence,suggestions,skills
+26456899,0,other,ENGINEERING LAB TECHNICIAN,,
+26456899,1,header,Summary,,
+26456899,2,summary,To obtain a position in my field of Electronics with a company that offers opportunities for advancement based on strong technical skills and work performance.,,
+26456899,3,header,Skills,,
+26456899,4,skills,"Construct, test and troubleshoot AC/DC circuits  Determine voltage, current, resistance and power by calculations and measurements  Identify electronic components and schematic symbols  Utilize oscilloscopes to measure AC frequency  Very proficient in soldering  Troubleshoot and identify faulty capacitors, inductors and transformers  Skilled in the use of hand tools for repairing and installing electronics  Create circuits with Multisim CAD software  Assemble/disassemble PCs and electronics to the component level  Familiar in C+, C++, Java script, SQL, Visual Studio, Microsoft Team Foundation, Microsoft Test Manager, Tera Term, GShell, Linux, OSi  Studied and understand Programmable Logic controllers  Digital communications with fiber optics  Understand different types of transmission lines:  twisted pair, UTP, shielded pair and coaxial  Proficient with Microsoft Word, Excel, PowerPoint, Access, Outlook  Strong oral and written communication skills  Adapt to new technology at an accelerated rate",C++; Java; SQL; Linux; Microsoft Word; Excel; PowerPoint,AC/DC circuits; oscilloscopes; soldering; Multisim; CAD; C++; Java script; SQL; Visual Studio; Microsoft Team Foundation; Microsoft Test Manager; Tera Term; GShell; Linux; OSi; Programmable Logic controllers; Digital communications; fiber optics; transmission lines; twisted pair; UTP; coaxial; Microsoft Word; Excel; PowerPoint; Access; Outlook; troubleshoot
+26456899,5,header,Experience,,
+26456899,6,experience,Engineering Lab Technician,,
+26456899,7,experience,Jan 2014,,
+26456899,8,experience,to,,
+26456899,9,experience,Jan 2016,,
+26456899,10,experience,Company Name,,
+26456899,11,experience,－,,
+26456899,12,experience,"City  ,",,
+26456899,13,experience,State,,
+26456899,14,experience,"Run software tests, physical checks and Beverage QA tests on new technology being developed.",physical checks; Beverage QA tests,software tests
+26456899,15,experience,Build test cases for new software builds.,Build test cases,test cases
+26456899,16,experience,"Perform regression, functional  and smoke testing.",smoke testing,regression testing; functional testing; smoke testing
+26456899,17,experience,Use refractometers  to test brix.,refractometers,refractometers
+26456899,18,experience,Use oscilloscopes to test wave patterns in circuits.,oscilloscopes,oscilloscopes
+26456899,19,experience,"Support different platforms with software installation, light plumbing and testing.",software installation; light plumbing; testing; Support different platforms,software installation
+26456899,20,experience,"Trained in All Beverage Quality test tools, including Refractometer, Oscilloscope and Function Generators, Multimeters and all basic hand tools.",Refractometer; Oscilloscope; Function Generators; Multimeters; all basic hand tools,Refractometer; Oscilloscope; Function Generators; Multimeters
+26456899,21,experience,Run various test cases on NEW Platforms to ensure stability in units before field release.,test cases,test cases
+26456899,22,experience,Responsible for Mechanically troubleshooting Lab Fixtures within the Freestyle Platform.,Mechanically troubleshooting,troubleshooting
+26456899,23,experience,Calibrate Alpha and Beta prototype units to perform at optimal expectation.,Calibrate,Calibrate
+26456899,24,experience,Work closely with software developers testing strategies in the implementation of software.,testing strategies,
+26456899,25,experience,Microsoft test manager to write test cases and create bugs for software development.,Microsoft test manager,Microsoft test manager; test cases; software development
+26456899,26,experience,Microsoft Team Foundation Server to add tasks to PBI's.,Microsoft Team Foundation Server,Microsoft Team Foundation Server
+26456899,27,experience,Tera Term software application to provide ssh/serial connection to Linux platform devices.,Linux; Tera Term software application; ssh/serial connection; Linux platform devices,Tera Term; ssh; Linux
+26456899,28,experience,GShell software to view modify on sub machines.,GShell software; view modify on sub machines,GShell
+26456899,29,experience,Engineering Validation Test Technician,,
+26456899,30,experience,Jan 2012,,
+26456899,31,experience,to,,
+26456899,32,experience,Jan 2014,,
+26456899,33,experience,Company Name,,
+26456899,34,experience,－,,
+26456899,35,experience,"City  ,",,
+26456899,36,experience,State,,
+26456899,37,experience,Test and validate new technology from automotive manufacturers.,new technology,
+26456899,38,experience,Run environmental tests on infotainment devices.,infotainment devices,environmental tests
+26456899,39,experience,Build various wire harnesses for testing equipment.,wire harnesses,wire harnesses
+26456899,40,experience,Operate thermotron chambers to test stability in head units.,thermotron chambers,thermotron chambers
+26456899,41,experience,Perform continuity tests on wiring assemblies.,continuity tests,continuity tests
+26456899,42,experience,"Run X-axis, Y-axis and Z-axis vibration tests.",vibration tests,vibration tests
+26456899,43,experience,"Test DVD, CD, GPS, USB, and IPOD infotainment devices for manufacturers specifications.",DVD; CD; GPS; USB; IPOD,
+26456899,44,experience,Electromechanical Technician,,
+26456899,45,experience,Jan 2010,,
+26456899,46,experience,to,,
+26456899,47,experience,Jan 2012,,
+26456899,48,experience,Company Name,,
+26456899,49,experience,－,,
+26456899,50,experience,"City  ,",,
+26456899,51,experience,State,,
+26456899,52,experience,Build and calibrate 9500 series mercury porosimeter  instruments.,9500 series mercury porosimeter  instruments,calibrate; mercury porosimeter
+26456899,53,experience,Build 2020 series chemisorption and physisorption  instruments.,2020 series chemisorption and physisorption  instruments,chemisorption instruments; physisorption instruments
+26456899,54,experience,Electromechanical assembly.,Electromechanical assembly,Electromechanical assembly
+26456899,55,experience,Assemble PC Boards.,Assemble PC Boards,
+26456899,56,experience,"Use hand tools to build, calibrate and test entire units to completion.","Use hand tools to build, calibrate and test entire units to completion",calibrate
+26456899,57,experience,Troubleshoot components when failures occur in unit boards.,Troubleshoot components when failures occur in unit boards,Troubleshoot
+26456899,58,experience,Assemble plumbing and servo valves.,Assemble plumbing and servo valves,servo valves
+26456899,59,experience,Driver/Mall specialist,,
+26456899,60,experience,Jan 2001,,
+26456899,61,experience,to,,
+26456899,62,experience,Jan 2009,,
+26456899,63,experience,Company Name,,
+26456899,64,experience,－,,
+26456899,65,experience,"City  ,",,
+26456899,66,experience,State,,
+26456899,67,experience,Drive and maintain a 30 ft.,,
+26456899,68,experience,pumper truck.,,
+26456899,69,experience,Interact and service customers on a daily basis.,,
+26456899,70,experience,Handled complicated machinery constantly.,,
+26456899,71,header,Education and Training,,
+26456899,72,education and training,"Associate of Science Degree  ,",,
+26456899,73,education and training,Computer and Electronics Engineering Technology,,
+26456899,74,education and training,2013,,
+26456899,75,education and training,ITT Technical Institute,,
+26456899,76,education and training,－,,
+26456899,77,education and training,"City  ,",,
+26456899,78,education and training,State,,
+26456899,79,education and training,Computer and Electronics Engineering Technology,,
+26456899,80,education and training,"Bachelor of Science Degree  ,",,
+26456899,81,education and training,Electronics and Communication Engineering Technology,,
+26456899,82,education and training,"September, 2013",,
+26456899,83,education and training,Electronics and Communication Engineering Technology Maintained an A average every quarter since enrolling,,
+26456899,84,education and training,*Obtained highest honors certificate every quarter 3.7,,
+26456899,85,header,Publications,,
+26456899,86,publications,M.K.I.,,
+26456899,87,publications,Waste Oil Systems,,
+26456899,88,publications,Steve Brawley,,
+26456899,89,publications,(C.E.O.,,
+26456899,90,publications,of M.K.I.,,
+26456899,91,publications,Waste oil systems),,
+26456899,92,publications,(678)-898- 2283,,
+26456899,93,header,Skills,,
+26456899,94,skills,"Alpha, automotive, basic, C+, C++, CAD, CD, oral, DC, DVD, electronics, fiber optics, functional, GPS, hand tools, Java script, Linux, Logic, machinery, Access, Excel, Outlook, PowerPoint, Microsoft Word, Multimeters, oscilloscopes, Oscilloscope, OSi, plumbing, Quality, QA, repairing, ssh, software developers, software development, software installation, soldering, SQL, test tools, transformers, transmission, Troubleshoot, troubleshooting, USB, view, Visual Studio, wiring, written communication skills",C++; Java; Linux; Excel; PowerPoint; Microsoft Word; SQL,C++; CAD; electronics; fiber optics; Java script; Linux; Access; Excel; Outlook; PowerPoint; Microsoft Word; Multimeters; oscilloscopes; OSi; soldering; SQL; ssh; software installation; Visual Studio; troubleshooting; QA; software development; wiring

@@ -126,7 +126,7 @@ def test_cleanup_drops_what_the_guide_excludes():
 
 
 def test_no_wrong_product_matches():
-    """Agent bus #25: generic acronyms and partial quotes must not map to a product."""
+    """Generic acronyms and partial quotes must not map to a product."""
     from extraction.extractors import canonical_id
     lex = lexicon()
     assert canonical_id("AI", lex, "AI") == "raw:ai"

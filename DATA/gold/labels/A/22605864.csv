@@ -1,0 +1,103 @@
+doc_id,sent_id,section,sentence,suggestions,skills
+22605864,0,other,SOFTWARE ENGINEERING TEAM LEAD,,
+22605864,1,header,Profile,,
+22605864,2,profile,I have over 10 years of experience in the field of IT infrastructure consulting and operations.,,IT infrastructure
+22605864,3,profile,"I have worked on various Microsoft technologies such as System Center Suite (SCOM, SCCM, SCVMM), virtualization (Hyper V), Windows 2003/ 2008 Active directory, DNS, DHCP, Windows Clusters, scripting (PowerShell, VBScript), etc.","Active directory; PowerShell; System Center Suite (SCOM, SCCM, SCVMM); virtualization (Hyper V); scripting (PowerShell, VBScript); Windows 2003/ 2008 Active directory; DNS, DHCP; Windows Clusters",System Center Suite; SCOM; SCCM; SCVMM; virtualization; Hyper V; Windows; Active directory; DNS; DHCP; Windows Clusters; scripting; PowerShell; VBScript
+22605864,4,profile,I am currently working for Accenture Technologies.,,
+22605864,5,profile,I am currently onsite working for our client in USA since March 2012.,,
+22605864,6,profile,I am looking for another opportunity within USA in infrastructure consulting/ Systems Administration that gives me the opportunity to excel in my current skills and paves way for learning new technologies.,,Systems Administration
+22605864,7,profile,System Center System Center Operations Manager 2012 - SCOM Currently working on SCOM for over 3 years as technical lead/ SME.,System Center System Center Operations Manager 2012 - SCOM,System Center Operations Manager; SCOM
+22605864,8,profile,"Experience in designing, implementing and operating SCOM infrastructure.",SCOM infrastructure,SCOM
+22605864,9,profile,"Experience in developing management packs using VSAE, VMPD, Authoring console.",VSAE; VMPD; Authoring console,management packs; VSAE; VMPD; Authoring console
+22605864,10,header,Professional Experience,,
+22605864,11,professional experience,July 2008,,
+22605864,12,professional experience,to,,
+22605864,13,professional experience,January 2015,,
+22605864,14,professional experience,Company Name,,
+22605864,15,professional experience,Software Engineering Team Lead,,
+22605864,16,professional experience,Joined as part of the Avanade IO capability.,,
+22605864,17,professional experience,Avanade is a joint venture between Microsoft and Accenture and specializes on Microsoft product solutions.,,
+22605864,18,professional experience,Project 1: Stanford Hospital and Clinics Tenure: March 2012 Till date I am currently the onshore technical lead and subject matter expert for our monitoring solution called Microsoft System Center Operations Manager (SCOM 2012).,Microsoft System Center; Microsoft System Center Operations Manager (SCOM 2012),Microsoft System Center Operations Manager; SCOM; monitoring
+22605864,19,professional experience,I was part of designing and implementing the SCOM solution for our client.,designing and implementing the SCOM solution,SCOM
+22605864,20,professional experience,I am also leading the operations.,,
+22605864,21,professional experience,"Some of the key activities that I have been leading here are: Designing, configuring and operating SCOM.",configuring and operating SCOM,SCOM
+22605864,22,professional experience,Expand monitoring to non-trusted domains and cross platform servers.,Expand monitoring to non-trusted domains and cross platform servers,monitoring
+22605864,23,professional experience,Management pack tuning and configuration.,Management pack tuning and configuration,Management pack tuning
+22605864,24,professional experience,"Building new management packs using VSAE, VMPD, Authoring Tools Migration/ upgrade of SCOM 2012 RTM to Release 2.",VSAE; VMPD; Authoring Tools; Migration/ upgrade of SCOM 2012 RTM to Release 2,management packs; VSAE; VMPD; Authoring Tools; SCOM
+22605864,25,professional experience,Managing daily operational tasks.,Managing daily operational tasks,
+22605864,26,professional experience,Working on SLA and other reports and dashboards.,SLA and other reports and dashboards,
+22605864,27,professional experience,"Application monitoring/ Synthetic transactions Prior to joining the monitoring team, I was working for their core infrastructure.",Application monitoring/ Synthetic transactions,Application monitoring; Synthetic transactions
+22605864,28,professional experience,"My role in the team was to identify flaws and remediate core IO services such as AD, DNS, DHCP, WINS, File/ Print, etc.","AD, DNS, DHCP, WINS, File/ Print, etc.",AD; DNS; DHCP; WINS
+22605864,29,professional experience,I also provided escalation support for critical incidents.,,
+22605864,30,professional experience,We worked on decommissioning Windows 2003 domain controllers out of the environment.,Windows 2003 domain controllers,Windows; domain controllers
+22605864,31,professional experience,I also implemented DNS scavenging.,DNS scavenging,DNS scavenging
+22605864,32,professional experience,Project 2: This project dealt with planning and deployment of SCCM site systems across geographies.,SCCM site systems,SCCM
+22605864,33,professional experience,We were also responsible for software distribution and OSD.,software distribution; OSD,software distribution; OSD
+22605864,34,professional experience,Also we built customer facing artifacts around designing and building SCCM architecture.,SCCM architecture,SCCM
+22605864,35,professional experience,Project 3: Performing P2V and V2V migrations to optimize/minimize datacenter footprint This project was the largest implementation of hyper V technology outside US and is also a case study for Microsoft.,hyper V technology; V2V migrations,P2V migrations; V2V migrations; hyper V
+22605864,36,professional experience,I was part of a project that involved consolidating the datacenter of an FMCG giant.,consolidating the datacenter,
+22605864,37,professional experience,As part of the project we were performing V2V and P2V migrations of the servers in large numbers.,P2V migrations,V2V migrations; P2V migrations
+22605864,38,professional experience,My role in the project was that of SME responsible for handling technical escalations and  getting the migrations done within the specified change window.,technical escalations,
+22605864,39,professional experience,Supporting and maintaining the client infrastructure I was working for a US-based client who is a major producer of nuclear power there.,,
+22605864,40,professional experience,The job mainly related to the remote administration and providing support 24x5.,remote administration,remote administration
+22605864,41,professional experience,The client had implemented all the latest Microsoft technologies in their infrastructure.,latest Microsoft technologies,
+22605864,42,professional experience,I have been a part of the project since the transition phase.,,
+22605864,43,professional experience,I was managing a team of 6 people operating in shifts.,,
+22605864,44,professional experience,"Achievements: I had been promoted twice within the first 2 years of my tenure in the company and had been given ""Contribution Significantly above Peer Group"" rating in the yearly evaluation cycle.",,
+22605864,45,professional experience,April 2007,,
+22605864,46,professional experience,to,,
+22605864,47,professional experience,July 2008,,
+22605864,48,professional experience,Company Name,,
+22605864,49,professional experience,IT Analyst,,
+22605864,50,professional experience,January 2006,,
+22605864,51,professional experience,to,,
+22605864,52,professional experience,March 2007,,
+22605864,53,professional experience,Company Name,,
+22605864,54,professional experience,Windows Administrator,,
+22605864,55,professional experience,I was working as part of the messaging and collaboration team.,,messaging
+22605864,56,professional experience,Job was to administer the internal Windows infrastructure of the company.,Windows infrastructure,Windows
+22605864,57,professional experience,"Day to day tasks included working on tickets escalated from the 1st line support/Helpdesk, monitoring systems, attending to SCOM alerts, etc.",SCOM alerts,SCOM; monitoring
+22605864,58,professional experience,Monthly tasks included Software Updates Management.,Software Updates Management,Software Updates Management
+22605864,59,professional experience,As needed tasks included any emergency or planned change.,emergency or planned change,
+22605864,60,professional experience,Our team was also responsible for active directory operations.,active directory operations,active directory
+22605864,61,professional experience,January 2004,,
+22605864,62,professional experience,to,,
+22605864,63,professional experience,January 2006,,
+22605864,64,professional experience,Company Name,,
+22605864,65,professional experience,Technical Support Engineer,,
+22605864,66,professional experience,"I was responsible for AD maintenance tasks such as account creation, providing access to shared folders, distribution/security groups creation/deletion, replication issues, group policy implementation, etc.",AD maintenance tasks; account creation; providing access to shared folders; distribution/security groups creation/deletion; replication issues; group policy implementation,AD; group policy
+22605864,67,professional experience,"Providing Line 1 support to the internal users of the company in troubleshooting their mail flow issues, outlook, network or password issues.",troubleshooting their mail flow issues,outlook; troubleshooting; mail flow
+22605864,68,professional experience,"Handling mailboxes for the internal users of the company, etc.",Handling mailboxes,mailboxes
+22605864,69,professional experience,"Also worked on the network routers, bridges and other network devices manufactured by Linksys during my initial days in the company.",Linksys,network routers
+22605864,70,professional experience,Provided technical support to the customers spread across the world in setting up their small office networks.,,technical support
+22605864,71,professional experience,I was responsible for giving desktop support for a small scale IT infrastructure.,giving desktop support,desktop support; IT infrastructure
+22605864,72,professional experience,"Day to day tasks included troubleshooting issues with outlook, blue screen errors, imaging, etc.",troubleshooting issues with outlook; imaging,outlook; imaging; troubleshooting
+22605864,73,header,Education,,
+22605864,74,education,National Institute of Technology(NIT),National Institute of Technology(NIT),
+22605864,75,education,"City  ,",,
+22605864,76,education,India,,
+22605864,77,education,Bachelor of Engineering (B.E,,
+22605864,78,header,Accomplishments,,
+22605864,79,accomplishments,Also working on System Center Orchestrator.,System Center Orchestrator,System Center Orchestrator
+22605864,80,accomplishments,System Center Configuration Manager 2007 - SCCM Over 4 years' working experience on SCCM.,System Center Configuration Manager 2007,System Center Configuration Manager; SCCM
+22605864,81,accomplishments,"Experience on designing, implementing the SCCM infrastructure Prepared artifacts such as environment discovery questionnaire, reference architecture, etc.",,SCCM
+22605864,82,accomplishments,for the Avanade Capability in India.,,
+22605864,83,accomplishments,"Virtualization Hyper V, SCVMM, Datacenter consolidation Worked on datacenter consolidation.",Virtualization; Hyper V; SCVMM; Datacenter consolidation,Virtualization; Hyper V; SCVMM; Datacenter consolidation
+22605864,84,accomplishments,Worked on building and operating Windows 2008 failover clusters.,Windows 2008 failover clusters,Windows; failover clusters
+22605864,85,accomplishments,"Have experience on Hyper V, SCVMM.",Hyper V; SCVMM,Hyper V; SCVMM
+22605864,86,accomplishments,"Core Wintel Services Active Directory, DNS, DHCP, WINS Worked on remediating core wintel services for our client.",Active Directory; DNS; DHCP; WINS,Active Directory; DNS; DHCP; WINS
+22605864,87,accomplishments,"Have experience and good understanding on design, deployment, operations of core wintel services such as AD, DNS, DHCP, WINS, etc.",AD; DNS; DHCP; WINS,AD; DNS; DHCP; WINS
+22605864,88,accomplishments,File and Print Services Experience on setting up and operating file and print services.,File and Print Services,File and Print Services
+22605864,89,accomplishments,Worked on file and print clusters in windows 2003.,file and print clusters,file and print clusters; windows
+22605864,90,accomplishments,"Scripting Experience on Windows Powershell, VBScript.",Powershell; Windows Powershell; VBScript,Scripting; Windows Powershell; VBScript
+22605864,91,accomplishments,"Other Skills: I have conducted technical training for new joiners and people from other streams on technologies such as SCCM, AD, HyperV, etc.",SCCM; AD; HyperV,SCCM; AD; HyperV; technical training
+22605864,92,accomplishments,within Accenture.,,
+22605864,93,accomplishments,I am a member of empanelled interviewers in my current company and have conducted over 50 interviews.,,
+22605864,94,accomplishments,I have experience in setting up small office/ home office networks in one of my previous organizations.,,
+22605864,95,accomplishments,I have fair understanding on networking protocols and equipment.,,networking protocols
+22605864,96,header,Certifications,,
+22605864,97,certifications,ITIL v3 Foundations certified.,ITIL v3 Foundations,
+22605864,98,certifications,MCSE,MCSE,
+22605864,99,certifications,SCCM certified.,SCCM certified,
+22605864,100,header,Skills,,
+22605864,101,skills,"active directory, AD, bridges, client, Designing, DHCP, DNS, imaging, ITIL v, Managing, messaging, access, MCSE, mail, office, outlook, Microsoft technologies, Windows, window, Migration, network, networks, producer, routers, servers, SLA, technical support, desktop support, troubleshooting, upgrade",active directory; DHCP; DNS; ITIL v; Managing; Microsoft technologies; network; routers; servers; SLA; technical support; troubleshooting; upgrade; Windows,active directory; AD; DHCP; DNS; imaging; ITIL; outlook; Windows; routers; desktop support; technical support; troubleshooting; messaging
